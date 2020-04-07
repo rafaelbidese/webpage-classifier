@@ -1,8 +1,16 @@
 # Webpage Classification Project
 
-## Dataset
-
 This project uses [The 4 Universities Data Set](http://www.cs.cmu.edu/afs/cs/project/theo-20/www/data/) to classify webpages in student, faculty, staff, department, course, project or other. 
+
+## Page-Classifier API
+
+The best model from this repository is currently being served on Heroku at: https://pageclassifier-api.herokuapp.com/
+
+<p align="center">
+  <img src="./../img/page-classifier.png">
+</p>
+
+## Dataset
 
 The data was collected within the domains of four universities: Cornell, Texas, Washington and Wisconsin mainly within the engineering deparments.
 
@@ -22,3 +30,6 @@ More information on the dataset can be obtained at the [link](http://www.cs.cmu.
 ## Query
 
 * **query.py**: persisted best model for later prediction given an URL
+
+
+
