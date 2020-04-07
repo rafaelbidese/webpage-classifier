@@ -7,7 +7,7 @@ This project uses [The 4 Universities Data Set](http://www.cs.cmu.edu/afs/cs/pro
 The best model from this repository is currently being served on Heroku at: https://pageclassifier-api.herokuapp.com/
 
 <p align="center">
-  <img src="./../img/page-classifier.png">
+  <img src="./img/page-classifier.png">
 </p>
 
 ## Dataset
